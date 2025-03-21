@@ -44,6 +44,9 @@ A simple web application using **Python (Flask)** to calculate **Equated Monthly
 
 ## 📸 Screenshot 
 <a href="https://github.com/himxnshxx/emi_calculator/blob/main/images/EMI%20project%20ss.png" class="button-link">EMI Homepage</a>
+<button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">
+        EMI Homepage
+    </button>
 
 
 ---
