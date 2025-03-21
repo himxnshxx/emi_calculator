@@ -43,7 +43,7 @@ A simple web application using **Python (Flask)** to calculate **Equated Monthly
     ```
 
 ## 📸 Screenshot
-EMI project ss.png
+https://github.com/himxnshxx/emi_calculator/blob/main/images/EMI%20project%20ss.png
 
 ---
 Happy Calculating! 😊
